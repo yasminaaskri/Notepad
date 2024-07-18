@@ -36,7 +36,7 @@ Save File: Click the "save file" button to save your text. A file dialog will pr
 Open File: Click the "open file" button to open an existing text file. A file dialog will prompt you to choose the file to open.
 
 
-## Screenshots
+## Screenshot
 
 ![Screenshot](https://github.com/user-attachments/assets/1093a1ce-a810-4c94-bff9-962aa579d1c6)
 
